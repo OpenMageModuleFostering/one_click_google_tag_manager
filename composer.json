@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/One_Click_Google_Tag_Manager",
+    "type": "magento-module",
+    "license": "OSL-3.0",
+    "homepage": "",
+    "description": "One click installation of Google Tag Manager ID within your store.",
+    "authors": [
+    {
+        "name": "wholesalesms",
+        "email": "support@wholesalesms.com.au"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
